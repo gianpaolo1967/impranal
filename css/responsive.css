@@ -1,0 +1,662 @@
+/*responsive.less*/
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* line 7, responsive.less */
+  .main-title > .container h2 {
+    padding-left: 435px;
+    font-size: 41px;
+    letter-spacing: 1px;
+  }
+  /* line 12, responsive.less */
+  .main-title > .container p {
+    font-size: 11px;
+    line-height: 23px;
+  }
+  /* line 16, responsive.less */
+  .main-title > .container h3 {
+    margin-top: 75px;
+    font-size: 22px;
+    padding-right: 0;
+  }
+  /* line 23, responsive.less */
+  .infoblock h2 {
+    font-size: 40px;
+  }
+  /* line 28, responsive.less */
+  .videoblock .relative img {
+    width: 57%;
+  }
+  /* line 31, responsive.less */
+  .videoblock .relative p {
+    padding: 65px 70px;
+    font-size: 31px;
+  }
+  /* line 37, responsive.less */
+  .advantages ul li p.text-center {
+    margin: 10px 0 60px;
+  }
+  /* line 40, responsive.less */
+  .sale {
+    background-size: cover;
+    padding-top: 100px;
+  }
+  /* line 43, responsive.less */
+  .sale .sale-details {
+    margin: 25px 0 0 120px;
+  }
+  /* line 47, responsive.less */
+  .sale dl dt {
+    padding: 5px 30px 5px 40px;
+  }
+  /* line 50, responsive.less */
+  .sale dl dd {
+    padding: 5px 5px;
+  }
+  /* line 52, responsive.less */
+  .sale dl dd span {
+    font-size: 36px;
+  }
+  /* line 57, responsive.less */
+  .sale p.sale-info {
+    padding-left: 41%;
+    width: 78%;
+    margin-top: 0;
+  }
+  /* line 61, responsive.less */
+  .sale p.sale-info:before {
+    width: 344px;
+    height: 277px;
+    bottom: -32px;
+  }
+  /* line 68, responsive.less */
+  .consulting-form span {
+    margin: 5px 0 10px 0;
+    font-size: 13px;
+  }
+  /* line 72, responsive.less */
+  .footer-contacts {
+    font-size: 14px;
+  }
+  /* line 76, responsive.less */
+  #cart-modal .modal-dialog {
+    width: 900px;
+  }
+  /* line 79, responsive.less */
+  #cart-modal .modal-footer {
+    font-size: 15px;
+  }
+}
+@media (max-width: 991px) {
+  /* line 87, responsive.less */
+  .main {
+    min-height: 750px;
+  }
+  /* line 94, responsive.less */
+  header .menu li a {
+    line-height: px;
+    font-size: 12px;
+    padding: 0 8px;
+  }
+  /* line 101, responsive.less */
+  header .parent-phone p {
+    margin: 0;
+    line-height: 29px;
+    font-size: 13px;
+    padding-right: 0;
+  }
+  /* line 106, responsive.less */
+  header .parent-phone p i {
+    display: none;
+  }
+  header .parent-phone p strong {
+    font-size: 12px;
+  }
+  /* line 111, responsive.less */
+  .sale-form {
+    top: 115px;
+    right: 15px;
+  }
+  /* line 115, responsive.less */
+  .main-title {
+    bottom: 10px;
+    height: 265px;
+    padding-top: 105px;
+  }
+  /* line 120, responsive.less */
+  .main-title > .container:before {
+    width: 300px;
+    height: 375px;
+    bottom: 0;
+  }
+  /* line 125, responsive.less */
+  .main-title > .container h2 {
+    padding-left: 356px;
+    font-size: 41px;
+    letter-spacing: 1px;
+  }
+  /* line 130, responsive.less */
+  .main-title > .container p {
+    float: right;
+    font-size: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+  }
+  /* line 136, responsive.less */
+  .main-title > .container h3 {
+    margin-top: 80px;
+    font-size: 17px;
+    padding-right: 10px;
+  }
+  /* line 140, responsive.less */
+  .main-title > .container h3:before {
+    right: 49%;
+    bottom: 24px;
+    width: 140px;
+    height: 126px;
+  }
+  /* line 149, responsive.less */
+  .infoblock {
+    padding-top: 30px;
+    background-size: 275px auto;
+  }
+  /* line 152, responsive.less */
+  .infoblock h2 {
+    font-size: 34px;
+  }
+  /* line 155, responsive.less */
+  .infoblock p {
+    font-size: 14px;
+  }
+  /* line 159, responsive.less */
+  .videoblock {
+    padding: 100px 0 7px;
+  }
+  /* line 162, responsive.less */
+  .videoblock .relative img {
+    margin-top: 107px;
+    width: 53%;
+  }
+  /* line 166, responsive.less */
+  .videoblock .relative p {
+    top: 58px;
+    font-size: 29px;
+    line-height: 38px;
+  }
+  /* line 173, responsive.less */
+  #gallery {
+    margin-top: 30px;
+    padding: 30px 40px;
+  }
+  /* line 176, responsive.less */
+  #gallery a p {
+    bottom: 0;
+  }
+  /* line 180, responsive.less */
+  .advantages {
+    padding: 20px 0 0;
+  }
+  /* line 182, responsive.less */
+  .advantages p {
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 5px;
+  }
+  /* line 187, responsive.less */
+  .advantages ul li {
+    width: 49%;
+  }
+  /* line 189, responsive.less */
+  .advantages ul li .relative {
+    width: 100px;
+    height: 100px;
+  }
+  /* line 193, responsive.less */
+  .advantages ul li p.text-center {
+    margin: 10px 0 15px;
+    font-size: 14px;
+    font-weight: 100;
+  }
+  /* line 200, responsive.less */
+  .sale {
+    background-size: cover;
+    padding: 70px 0 50px;
+  }
+  /* line 203, responsive.less */
+  .sale .sale-details {
+    margin: 20px 0 0 0;
+    overflow: hidden;
+  }
+  /* line 208, responsive.less */
+  .sale dl dt {
+    float: left;
+    position: relative;
+    padding: 5px 25px 5px 35px;
+    text-align: center;
+    font-size: 13px;
+  }
+  /* line 214, responsive.less */
+  .sale dl dt span {
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 25px;
+  }
+  /* line 220, responsive.less */
+  .sale dl dd {
+    padding: 5px 5px;
+  }
+  /* line 222, responsive.less */
+  .sale dl dd span {
+    font-size: 32px;
+  }
+  /* line 227, responsive.less */
+  .sale p.sale-info {
+    padding-left: 40%;
+    width: 91%;
+    margin-top: 0;
+  }
+  /* line 231, responsive.less */
+  .sale p.sale-info:before {
+    width: 267px;
+    height: 212px;
+    bottom: -46px;
+  }
+  /* line 238, responsive.less */
+  .order-form {
+    margin-bottom: 0;
+  }
+  /* line 242, responsive.less */
+  .order-form .price-block span + span {
+    padding-left: 11px;
+    margin-bottom: 10px;
+  }
+  /* line 249, responsive.less */
+  .order-form .palette img {
+    width: 130px;
+    max-width: 130px;
+  }
+  /* line 254, responsive.less */
+  .order-form .order-details {
+    width: 59%;
+  }
+  /* line 256, responsive.less */
+  /*.order-form .order-details > p span {*/
+    /*margin: 0 6px 8px;*/
+  /*}*/
+  /* line 261, responsive.less */
+  .consulting {
+    padding: 90px 0 0;
+  }
+  /* line 263, responsive.less */
+  .consulting h3 {
+    margin-top: 10px;
+    font-size: 26px;
+  }
+  /* line 267, responsive.less */
+  .consulting p {
+    font-size: 14px;
+  }
+  /* line 272, responsive.less */
+  .consulting-form label {
+    display: none;
+  }
+  /* line 275, responsive.less */
+  .consulting-form span {
+    margin: 0 0 10px 0;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  /* line 281, responsive.less */
+  .our-work p {
+    margin: 15px 0 0;
+    line-height: 20px;
+    font-size: 13px;
+  }
+  /* line 286, responsive.less */
+  .footer-contacts {
+    font-size: 14px;
+    margin-top: 30px;
+  }
+  /* line 289, responsive.less */
+  .footer-contacts > .container {
+    height: 65px;
+  }
+  /* line 292, responsive.less */
+  .footer-contacts .col-sm-4 {
+    padding: 22px 0;
+  }
+  /* line 295, responsive.less */
+  .footer-contacts i {
+    display: none;
+  }
+  /* line 298, responsive.less */
+  .footer-contacts .entrepreneurs {
+    width: 400px;
+    padding: 0 15px 15px;
+  }
+  /* line 301, responsive.less */
+  .footer-contacts .entrepreneurs p {
+    margin: 15px 0;
+  }
+  /* line 306, responsive.less */
+  #map {
+    height: 450px;
+  }
+  .order-details > p span.numbers {
+    margin-left: 34px;
+  }
+  .order-details > p span {
+    margin: 0 0 8px 0;
+  }
+  .order-form .price-block span strong {
+    font-size: 18px;
+  }
+  .color h4 {
+    margin-bottom: 0;
+  }
+  .order-details label.control-label {
+    padding-left: 20px;
+    padding-right: 0;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  /* line 311, responsive.less */
+  .cart-modal .modal-dialog {
+    width: 750px;
+  }
+  /* line 314, responsive.less */
+  .cart-modal .modal-footer {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  /* line 323, responsive.less */
+  .container {
+    width: 300px;
+  }
+  /* line 327, responsive.less */
+  header .container {
+    width: auto;
+  }
+  /* line 330, responsive.less */
+  header .parent-phone p {
+    line-height: 24px;
+    font-size: 15px;
+  }
+  /* line 334, responsive.less */
+  header .dropdown {
+    margin-top: -40px;
+  }
+  /* line 336, responsive.less */
+  header .dropdown > a {
+    color: #fff;
+    margin: 0 0 0;
+    display: inline-block;
+    font-size: 28px;
+  }
+  /* line 342, responsive.less */
+  header .dropdown ul {
+    width: 100%;
+    background: rgba(45, 26, 12, 0.75);
+  }
+  /* line 346, responsive.less */
+  header .dropdown ul li a {
+    line-height: 30px;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+  }
+  .sale-form {
+    top: 87px;
+  }
+  /* line 356, responsive.less */
+  .main {
+    min-height: 645px;
+  }
+  /* line 359, responsive.less */
+  .sale-form {
+    position: relative;
+    float: right;
+    right: 0;
+    width: 100%;
+  }
+  /* line 364, responsive.less */
+  .sale-form h3 {
+    font-size: 30px;
+    padding: 10px 0 10px;
+  }
+  /* line 368, responsive.less */
+  .sale-form .sale-form-descr {
+    padding: 0 0;
+  }
+  /* line 370, responsive.less */
+  .sale-form .sale-form-descr h5 {
+    margin-top: 15px;
+  }
+  /* line 372, responsive.less */
+  .sale-form .sale-form-descr h5 .percent {
+    display: none;
+  }
+  /* line 375, responsive.less */
+  .sale-form .sale-form-descr h5 + p {
+    margin: 10px 0 0;
+  }
+  /* line 379, responsive.less */
+  .sale-form .sale-form-descr .form-link {
+    margin-top: 38px;
+  }
+  /* line 384, responsive.less */
+  .flip-clock-wrapper {
+    padding-left: 6px;
+  }
+  /* line 387, responsive.less */
+  .main-title {
+    bottom: 10px;
+    height: auto;
+    padding-top: 20px;
+    background: #ff8106;
+  }
+  /* line 393, responsive.less */
+  .main-title > .container:before {
+    display: none;
+  }
+  /* line 396, responsive.less */
+  .main-title > .container h2 {
+    padding-left: 0;
+    font-size: 32px;
+    letter-spacing: 1px;
+  }
+  /* line 401, responsive.less */
+  .main-title > .container p {
+    float: none;
+    font-size: 14px;
+    margin-right: 0;
+    margin-top: 10px;
+  }
+  /* line 407, responsive.less */
+  .main-title > .container h3 {
+    margin-top: 35px;
+    font-size: 14px;
+    line-height: 19px;
+    padding-right: 0;
+  }
+  /* line 412, responsive.less */
+  .main-title > .container h3:before {
+    right: auto;
+    left: 0;
+    bottom: -30px;
+    width: 92px;
+    height: 100px;
+  }
+  /* line 422, responsive.less */
+  .infoblock {
+    background: none;
+  }
+  /* line 426, responsive.less */
+  .videoblock h2 {
+    font-size: 25px;
+  }
+  /* line 430, responsive.less */
+  .videoblock .relative img {
+    margin-top: 35px;
+  }
+  /* line 433, responsive.less */
+  .videoblock .relative p {
+    top: 12px;
+    font-size: 29px;
+    line-height: 34px;
+    padding: 67px 54px;
+  }
+  /* line 441, responsive.less */
+  #gallery {
+    margin-top: 30px;
+    padding: 30px 30px 10px;
+  }
+  /* line 446, responsive.less */
+  .advantages h2 {
+    font-size: 26px;
+  }
+  /* line 449, responsive.less */
+  .advantages p.text-center {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 26px;
+  }
+  /* line 455, responsive.less */
+  .fb-comments-tittle {
+    font-size: 19px;
+    margin: 30px 0 15px;
+  }
+  /* line 459, responsive.less */
+  .fb-comments-content {
+    padding-bottom: 0;
+  }
+  /* line 462, responsive.less */
+  .sale {
+    padding: 30px 0 50px;
+    background-position-y: -50px;
+    background-size: auto 107%;
+  }
+  /* line 466, responsive.less */
+  .sale h2 {
+    font-size: 24px;
+  }
+  /* line 469, responsive.less */
+  .sale p.text-center {
+    font-size: 14px;
+  }
+  /* line 472, responsive.less */
+  .sale p.sale-info {
+    padding-left: 0;
+    width: 100%;
+    margin-top: 0;
+  }
+  /* line 476, responsive.less */
+  .sale p.sale-info:before {
+    display: none;
+  }
+  /* line 481, responsive.less */
+  .order-form .price-block span + span {
+    padding-left: 0;
+    margin-bottom: 0;
+    width: 100%;
+  }
+  /* line 487, responsive.less */
+  .order-form-item .color {
+    width: 100%;
+  }
+  /* line 490, responsive.less */
+  .order-form-item .order-details {
+    width: 100%;
+  }
+  /* line 494, responsive.less */
+  .consulting {
+    background: #eeeeee;
+    padding: 20px 0 20px;
+  }
+  /* line 500, responsive.less */
+  .footer-contacts > .container {
+    padding: 12px 0;
+    height: auto;
+    width: 100%;
+  }
+  /* line 504, responsive.less */
+  .footer-contacts > .container > .row {
+    margin: 0;
+  }
+  /* line 508, responsive.less */
+  .footer-contacts .col-sm-4 {
+    padding: 0;
+  }
+  /* line 511, responsive.less */
+  .footer-contacts .entrepreneurs {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    float: left;
+  }
+  /* line 517, responsive.less */
+  .footer-contacts .entrepreneurs form {
+    max-width: 270px;
+    margin: 0 auto;
+  }
+  /* line 523, responsive.less */
+  #map {
+    height: 300px;
+  }
+  /* line 527, responsive.less */
+  .calculator-modal .modal-dialog {
+    width: 300px;
+  }
+  /* line 530, responsive.less */
+  .calculator-modal .modal-header .modal-title {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  /* line 534, responsive.less */
+  .calculator-modal .modal-body input[type=radio] + label {
+    color: #666666;
+    font-size: 12px;
+    line-height: 13px;
+    min-height: 25px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: -25px;
+    margin-right: 15px;
+    padding-left: 33px;
+    background: url('../images/icons/radio.png') no-repeat 0 0;
+  }
+  /* line 548, responsive.less */
+  .cart-modal .modal-header .modal-title {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  /* line 552, responsive.less */
+  .cart-modal .modal-body {
+    padding: 0 15px 0;
+  }
+  /* line 555, responsive.less */
+  .cart-modal .modal-footer {
+    padding: 0 15px 20px;
+  }
+  /* line 558, responsive.less */
+  .cart-modal .btn {
+    margin-top: 20px;
+  }
+  /* line 562, responsive.less */
+  .copyright p {
+    width: 100%;
+    text-align: center;
+  }
+  .order-details > p span.numbers {
+    margin-left: 89px;
+  }
+  .price-small {
+    line-height: 34px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
+@media (max-width: 767px){
+.order-form .palette {
+    padding: 3px;
+}
+}

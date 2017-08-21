@@ -1,0 +1,468 @@
+{
+  "products" : {
+    "impranal_profi": {
+      "title": "Impranal",
+      "title_type": "Profi",
+      "description1": "СТІЙКА ПОВЕРХНЯ",
+      "description2": "ОКСАМИТОВИЙ БЛИСК",
+      "capacities": [
+        {
+          "capacity": "0.75",
+          "price": "176"
+        },
+        {
+          "capacity": "2.5",
+          "price": "508"
+        },
+        {
+          "capacity": "5",
+          "price": "933"
+        }
+      ],
+      "items" : [
+        {
+          "color": "Безбарвний",
+          "img": "images/palette/impranal-profi_bezbarvniy.jpg",
+          "icon": "images/palette/xs/impranal-profi_bezbarvniy_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.6",
+              "price": "176"
+            },
+            {
+              "capacity": "2.2",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+        {
+          "color": "Пінія",
+          "img": "images/palette/impranal-profi_piniya.jpg",
+          "icon": "images/palette/xs/impranal-profi_piniya_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+        {
+          "color": "Дуб",
+          "img": "images/palette/impranal-profi_dub.jpg",
+          "icon": "images/palette/xs/impranal-profi_dub_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+        {
+          "color": "Дуб Антік",
+          "img": "images/palette/impranal-profi_dub-antik.jpg",
+          "icon": "images/palette/xs/impranal-profi_dub-antik_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+        {
+          "color": "Каштан",
+          "img": "images/palette/impranal-profi_kashtan.jpg",
+          "icon": "images/palette/xs/impranal-profi_kashtan_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+        {
+          "color": "Вишня",
+          "img": "images/palette/impranal-profi_vishnya.jpg",
+          "icon": "images/palette/xs/impranal-profi_vishnya_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+
+
+        {
+          "color": "Махагон",
+          "img": "images/palette/impranal-profi_mahagon.jpg",
+          "icon": "images/palette/xs/impranal-profi_mahagon_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+        {
+          "color": "Золотий Дуб",
+          "img": "images/palette/impranal-profi_zolotiy-dub.jpg",
+          "icon": "images/palette/xs/impranal-profi_zolotiy-dub_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+        {
+          "color": "Горіх",
+          "img": "images/palette/impranal-profi_gorih.jpg",
+          "icon": "images/palette/xs/impranal-profi_gorih_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+        {
+          "color": "Тік",
+          "img": "images/palette/impranal-profi_tik.jpg",
+          "icon": "images/palette/xs/impranal-profi_tik_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        },
+        {
+          "color": "Палісандр",
+          "img": "images/palette/impranal-profi_palisandr.jpg",
+          "icon": "images/palette/xs/impranal-profi_palisandr_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "176"
+            },
+            {
+              "capacity": "2.5",
+              "price": "508"
+            },
+            {
+              "capacity": "5",
+              "price": "933"
+            }
+          ]
+        }
+      ]
+    },
+    "impranal": {
+      "title": "Impranal",
+      "title_type": "",
+      "description1": "ТОНКОШАРОВИЙ",
+      "description2": "МАТОВИЙ",
+      "capacities": [
+        {
+          "capacity": "0.75",
+          "price": "112"
+        },
+        {
+          "capacity": "2.5",
+          "price": "317"
+        },
+        {
+          "capacity": "5",
+          "price": "535"
+        }
+      ],
+      "items" : [
+        {
+          "color": "Безбарвний",
+          "img": "images/palette/impranal_bezbarvniy.jpg",
+          "icon": "images/palette/xs/impranal_bezbarvniy_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.6",
+              "price": "112"
+            },
+            {
+              "capacity": "2.2",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Пінія",
+          "img": "images/palette/impranal_piniya.jpg",
+          "icon": "images/palette/xs/impranal_piniya_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Дуб",
+          "img": "images/palette/impranal_dub.jpg",
+          "icon": "images/palette/xs/impranal_dub_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Дуб Антік",
+          "img": "images/palette/impranal_dub-antik.jpg",
+          "icon": "images/palette/xs/impranal_dub-antik_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Каштан",
+          "img": "images/palette/impranal_kashtan.jpg",
+          "icon": "images/palette/xs/impranal_kashtan_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Вишня",
+          "img": "images/palette/impranal_vishnya.jpg",
+          "icon": "images/palette/xs/impranal_vishnya_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Махагон",
+          "img": "images/palette/impranal_mahagon.jpg",
+          "icon": "images/palette/xs/impranal_mahagon_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Золотий Дуб",
+          "img": "images/palette/impranal_zolotiy-dub.jpg",
+          "icon": "images/palette/xs/impranal_zolotiy-dub_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Горіх",
+          "img": "images/palette/impranal_gorih.jpg",
+          "icon": "images/palette/xs/impranal_gorih_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Тік",
+          "img": "images/palette/impranal_tik.jpg",
+          "icon": "images/palette/xs/impranal_tik_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        },
+        {
+          "color": "Палісандр",
+          "img": "images/palette/impranal_palisandr.jpg",
+          "icon": "images/palette/xs/impranal_palisandr_xs.jpg",
+          "capacities": [
+            {
+              "capacity": "0.75",
+              "price": "112"
+            },
+            {
+              "capacity": "2.5",
+              "price": "317"
+            },
+            {
+              "capacity": "5",
+              "price": "535"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
